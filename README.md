@@ -10,4 +10,11 @@ A responsive and customizable countdown timer built with HTML, CSS, and JavaScri
 	* HTML5: Structuring the content and layout.
 	* CSS3: Styling and ensuring responsive design.
 	* JavaScript (ES6): Implementing the countdown logic and interactivity.
-## :photo: Preview
+
+## :img: Preview
+	
+	<figure>
+    <img src="/assets/images/count-down-timer.png"
+         alt="Count down Timer">
+   
+	</figure>
