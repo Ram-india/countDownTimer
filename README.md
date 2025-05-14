@@ -13,8 +13,5 @@ A responsive and customizable countdown timer built with HTML, CSS, and JavaScri
 
 ## :img: Preview
 	
-	<figure>
-    <img src="/assets/images/count-down-timer.png"
-         alt="Count down Timer">
-   
-	</figure>
+	![count-down-timer](/assets/images/count-down-timer.png)
+
